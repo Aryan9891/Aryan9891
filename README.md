@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:aryansachinixd@gmail.com"><img src="https://img.shields.io/badge/Email-aryansachinixd%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Aryan9891"><img src="https://img.shields.io/badge/GitHub-Aryan9891-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/aryan-sachin-7b2688340/"><img src="https://img.shields.io/badge/LinkedIn-Aryan_Sachin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square" alt="PRs Welcome" />
   <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-blueviolet?style=flat-square" alt="Status" />
 </p>
