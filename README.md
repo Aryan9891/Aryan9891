@@ -18,25 +18,24 @@
 
 ### 💻 Developer Terminal Session
 
-```bash
-aryan@cloud-node:~$ aryan-cli --profile --inspect
-┌──────────────────────┬────────────────────────────────────────────────────────┐
-│ Field                │ Details                                                │
-├──────────────────────┼────────────────────────────────────────────────────────┤
-│ Full Name            │ Aryan Sachin                                           │
-│ Core Role            │ Full-Stack Software Engineer & AI/ML Solutions Builder │
-│ Primary Stack        │ TypeScript, React, Next.js, FastAPI, Python, Node.js   │
-│ Database & Infra     │ PostgreSQL, Redis, Docker, Supabase, GitHub Actions    │
-│ Open Source Scale    │ Contributions across 1.3M+ combined stars repositories │
-│ Current Obsessions   │ Typo-tolerant search, AST codemods, LLM agent systems  │
-│ Availability         │ Open to impactful full-time roles & high-scale teams   │
-└──────────────────────┴────────────────────────────────────────────────────────┘
+```zsh
+╭─ aryan@cloud-node ~/workspace ‹main› 
+╰─$ aryan-cli --profile --inspect
 
-aryan@cloud-node:~$ aryan-cli --run-tests
-✔ Frontend Web Accessibility (WCAG 2.4.7 focus states verified)
-✔ Monorepo Type Invariants (Strict TypeScript & AST checks passed)
-✔ Algorithmic Search Accuracy (Jaro-Winkler metric validated)
-All systems operational. Ready to deploy. 🚀
+  👤 Full Name         : Aryan Sachin
+  💼 Primary Focus     : Full-Stack Software Engineering & AI/ML Systems
+  🚀 Tech Stack        : TypeScript • React • Next.js • FastAPI • Python • Node.js
+  🗄️ Database & Infra  : PostgreSQL • Redis • Docker • Supabase • GitHub Actions
+  🌐 Open Source Scale : Contributions across 1.3M+ combined stars repositories
+  🎯 Core Focus Areas  : Accessibility (WCAG 2.4.7) • Typo-Tolerant Search • Microservices
+  📍 Availability      : Open to high-impact software engineering roles & challenges
+
+╭─ aryan@cloud-node ~/workspace ‹main› 
+╰─$ aryan-cli --run-health-checks
+  ✔ Web Accessibility  -> WCAG 2.4.7 focus-visible tokens verified across 8 themes
+  ✔ Monorepo Core      -> Strict TypeScript & AST invariants passing with 0 errors
+  ✔ Search Engine      -> Jaro-Winkler string similarity metric benchmarked & merged
+  ✔ CI/CD Integrity    -> All GitHub Actions workflows verified green
 ```
 
 ---
@@ -64,12 +63,12 @@ A proven track record of solving real-world issues across industry-standard repo
 
 | Repository | Stars | Contribution / PR | Architecture & Scope | Status |
 |:---|:---:|:---|:---|:---:|
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ★ 457k+ | [PR #71072](https://github.com/freeCodeCamp/freeCodeCamp/pull/71072): PIN Extractor workshop curriculum overhaul | Markdown AST / Curriculum Rules | ![Open](https://img.shields.io/badge/Approved-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ★ 399k+ | [PR #13546](https://github.com/EbookFoundation/free-programming-books/pull/13546): Enterprise Java architecture curriculum (pt_BR) | Course Taxonomy / Repo Linter | ![Open](https://img.shields.io/badge/CI_Passed-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
-| [avelino/awesome-go](https://github.com/avelino/awesome-go) | ★ 188k+ | [PR #6797](https://github.com/avelino/awesome-go/pull/6797): Reorganized Kong parser to Standard CLI | Go Ecosystem / Quality Standards | ![Open](https://img.shields.io/badge/CI_Passed-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
-| [twbs/bootstrap](https://github.com/twbs/bootstrap) | ★ 174k+ | [PR #43113](https://github.com/twbs/bootstrap/pull/43113): Preserve raw string data attributes in Tooltip & Popover | TypeScript / Karma & Vitest Unit Tests | ![Open](https://img.shields.io/badge/Netlify_Ready-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
-| [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ★ 105k+ | [PR #1435](https://github.com/goldbergyoni/nodebestpractices/pull/1435): Refreshed security linter guide & TSLint deprecation | Node.js Security / eslint-community | ![Open](https://img.shields.io/badge/Verified-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ★ 85k+ | [PR #12348](https://github.com/shadcn-ui/ui/pull/12348): WCAG 2.4.7 MenubarTrigger focus-visible ring styles | Tailwind CSS v4 / Monorepo Registry | ![Open](https://img.shields.io/badge/CI_Passed-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ★ 457k+ | [PR #71072](https://github.com/freeCodeCamp/freeCodeCamp/pull/71072): PIN Extractor workshop curriculum overhaul | Markdown AST / Curriculum Rules | ![Approved](https://img.shields.io/badge/Approved-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ★ 399k+ | [PR #13546](https://github.com/EbookFoundation/free-programming-books/pull/13546): Enterprise Java architecture curriculum (pt_BR) | Course Taxonomy / Repo Linter | ![CI Passed](https://img.shields.io/badge/CI_Passed-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | ★ 188k+ | [PR #6797](https://github.com/avelino/awesome-go/pull/6797): Reorganized Kong parser to Standard CLI | Go Ecosystem / Quality Standards | ![CI Passed](https://img.shields.io/badge/CI_Passed-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
+| [twbs/bootstrap](https://github.com/twbs/bootstrap) | ★ 174k+ | [PR #43113](https://github.com/twbs/bootstrap/pull/43113): Preserve raw string data attributes in Tooltip & Popover | TypeScript / Karma & Vitest Unit Tests | ![Netlify Ready](https://img.shields.io/badge/Netlify_Ready-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
+| [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ★ 105k+ | [PR #1435](https://github.com/goldbergyoni/nodebestpractices/pull/1435): Refreshed security linter guide & TSLint deprecation | Node.js Security / eslint-community | ![Verified](https://img.shields.io/badge/Verified-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ★ 85k+ | [PR #12348](https://github.com/shadcn-ui/ui/pull/12348): WCAG 2.4.7 MenubarTrigger focus-visible ring styles | Tailwind CSS v4 / Monorepo Registry | ![CI Passed](https://img.shields.io/badge/CI_Passed-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | ★ 400+ | [PR #620](https://github.com/TheVicky1/Pact_OS/pull/620): Typo-tolerant Jaro-Winkler string similarity metric | TypeScript / Search Algorithms | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git-pull-request&logoColor=white) |
 | [tem-ctrl/open-source-guru](https://github.com/tem-ctrl/open-source-guru) | Full-Stack | [PR #44](https://github.com/tem-ctrl/open-source-guru/pull/44)–[#49](https://github.com/tem-ctrl/open-source-guru/pull/49): 6 PRs across worker queues, SVG badges & frontend | Next.js 16 / Fastify / Workers | ![6 PRs Open](https://img.shields.io/badge/6_PRs_Passing-238636?style=flat-square&logo=git-pull-request&logoColor=white) |
 
@@ -121,12 +120,23 @@ A proven track record of solving real-world issues across industry-standard repo
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Engineering Milestones & Scale Badges
 
 <div align="center">
-  <a href="https://github.com/Aryan9891">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aryan9891&theme=tokyonight&no-frame=true&margin-w=8&column=6" alt="Aryan's GitHub Trophies" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/Aryan9891">
+      <img src="https://img.shields.io/badge/Open_Source-Tier--1_Contributor-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Tier 1 Contributor" />
+    </a>
+    <a href="https://github.com/Aryan9891">
+      <img src="https://img.shields.io/badge/Repositories_Impacted-1.3M+_Stars-F59E0B?style=for-the-badge&logo=apachespark&logoColor=white" alt="1.3M+ Stars Impacted" />
+    </a>
+    <a href="https://github.com/TheVicky1/Pact_OS/pull/620">
+      <img src="https://img.shields.io/badge/Algorithms-Jaro--Winkler_Search-10B981?style=for-the-badge&logo=speedtest&logoColor=white" alt="Jaro-Winkler Metric" />
+    </a>
+    <a href="https://github.com/shadcn-ui/ui/pull/12348">
+      <img src="https://img.shields.io/badge/Accessibility-WCAG_2.4.7_AA-8B5CF6?style=for-the-badge&logo=w3c&logoColor=white" alt="WCAG 2.4.7 AA" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -134,24 +144,20 @@ A proven track record of solving real-world issues across industry-standard repo
 ### 📈 Visual Activity & Productivity Analytics
 
 <div align="center">
-  <p>
+  <p align="center">
     <a href="https://github.com/Aryan9891">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aryan9891&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Aryan's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Aryan9891&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Aryan's GitHub Stats" />
     </a>
     <a href="https://github.com/Aryan9891">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan9891&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/Aryan9891">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan9891&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Aryan9891&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
     </a>
   </p>
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan9891&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+  <p align="center">
+    <a href="https://github.com/Aryan9891">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan9891&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+    </a>
   </p>
 </div>
-
 
 ---
 
