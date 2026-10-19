@@ -82,14 +82,16 @@ console.log(`Found ${rawNodes.length} public Pull Requests.`);
 const prs = rawNodes.filter(pr => pr && (pr.state === 'MERGED' || pr.state === 'OPEN'));
 console.log(`Retained ${prs.length} MERGED or OPEN Pull Requests.`);
 
-// 4. Sort: MERGED PRs first, then highest-star repositories descending
+// 4. Sort: Repositories alphabetically (A-Z, case-insensitive)
+// Within the same repository: MERGED PRs first, then by PR number descending
 prs.sort((a, b) => {
+  const repoA = (a.repository?.nameWithOwner || '').toLowerCase();
+  const repoB = (b.repository?.nameWithOwner || '').toLowerCase();
+  const repoCompare = repoA.localeCompare(repoB);
+  if (repoCompare !== 0) return repoCompare;
+
   if (a.state === 'MERGED' && b.state !== 'MERGED') return -1;
   if (b.state === 'MERGED' && a.state !== 'MERGED') return 1;
-
-  const starsA = a.repository?.stargazerCount ?? 0;
-  const starsB = b.repository?.stargazerCount ?? 0;
-  if (starsB !== starsA) return starsB - starsA;
 
   return b.number - a.number;
 });
