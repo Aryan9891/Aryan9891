@@ -78,9 +78,9 @@ if (result.errors && result.errors.length > 0) {
 const rawNodes = result?.data?.search?.nodes || [];
 console.log(`Found ${rawNodes.length} public Pull Requests.`);
 
-// 3. Filter out closed/unmerged PRs, keeping only MERGED and OPEN PRs
-const prs = rawNodes.filter(pr => pr && (pr.state === 'MERGED' || pr.state === 'OPEN'));
-console.log(`Retained ${prs.length} MERGED or OPEN Pull Requests.`);
+// 3. Keep only MERGED PRs per profile display configuration
+const prs = rawNodes.filter(pr => pr && pr.state === 'MERGED');
+console.log(`Retained ${prs.length} MERGED Pull Requests.`);
 
 // 4. Sort: Repositories alphabetically (A-Z, case-insensitive)
 // Within the same repository: MERGED PRs first, then by PR number descending
