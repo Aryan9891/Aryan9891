@@ -65,7 +65,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | Repository | Stars | Pull Request | Language | Status |
 |:---|:---:|:---|:---:|:---:|
 | [alisolanki/OpenSource-Github-Wall](https://github.com/alisolanki/OpenSource-Github-Wall) | 95 ★ | [#220](https://github.com/alisolanki/OpenSource-Github-Wall/pull/220): docs(contributor): add Aryan9891 | Markdown | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [apache/airflow](https://github.com/apache/airflow) | 47.2k ★ | [#75235](https://github.com/apache/airflow/pull/75235): Document Daylight Saving Time schedule behavior (#38098) | Python | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
+| [apache/airflow](https://github.com/apache/airflow) | 47.3k ★ | [#75235](https://github.com/apache/airflow/pull/75235): Document Daylight Saving Time schedule behavior (#38098) | Python | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 189.7k ★ | [#6797](https://github.com/avelino/awesome-go/pull/6797): fix(cli): move kong to Standard CLI category (#6592) | Go | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 399.8k ★ | [#13546](https://github.com/EbookFoundation/free-programming-books/pull/13546): feat(courses): add Formacao Java Completa to pt_BR courses (#13367) | Python | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 457.7k ★ | [#71072](https://github.com/freeCodeCamp/freeCodeCamp/pull/71072): fix(curriculum): clarify instructions in PIN Extractor Step 3 | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
@@ -88,7 +88,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.0k ★ | [#43113](https://github.com/twbs/bootstrap/pull/43113): fix(tooltip): preserve raw string title and content data attributes (#43090) | MDX | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [vercel/next.js](https://github.com/vercel/next.js) | 143.1k ★ | [#100420](https://github.com/vercel/next.js/pull/100420): docs: document useRouter push/replace void return and useTransition migration | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-10-22 02:02 UTC*
+*Last auto-updated via GitHub Actions: 2026-10-22 10:43 UTC*
 <!-- END_OSS_PRS -->
 
 ---
