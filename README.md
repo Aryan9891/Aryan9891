@@ -71,6 +71,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 457.7k ★ | [#71072](https://github.com/freeCodeCamp/freeCodeCamp/pull/71072): fix(curriculum): clarify instructions in PIN Extractor Step 3 | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 457.7k ★ | [#71324](https://github.com/freeCodeCamp/freeCodeCamp/pull/71324): fix(curriculum): support browser font-family CSSOM serialization in Nutrition Label Step 5 | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | 105.7k ★ | [#1435](https://github.com/goldbergyoni/nodebestpractices/pull/1435): fix(security): update eslint security links and note tslint deprecation (#1423) | Dockerfile | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
+| [google/googletest](https://github.com/google/googletest) | 39.7k ★ | [#5136](https://github.com/google/googletest/pull/5136): docs: document GTEST_FLAG_GET and GTEST_FLAG_SET macros | C++ | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36.2k ★ | [#19080](https://github.com/langfuse/langfuse/pull/19080): fix(web): ignore empty threads when computing session timeline nesting level (#19062) | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 194.2k ★ | [#343210](https://github.com/microsoft/vscode/pull/343210): docs(design): add consistency-by-default guidance for UI pattern decisions | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 46.3k ★ | [#42987](https://github.com/RocketChat/Rocket.Chat/pull/42987): fix(fuselage): do not render GridItem for null or boolean children in CardGrid | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
@@ -89,7 +90,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.0k ★ | [#43113](https://github.com/twbs/bootstrap/pull/43113): fix(tooltip): preserve raw string title and content data attributes (#43090) | MDX | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [vercel/next.js](https://github.com/vercel/next.js) | 143.2k ★ | [#100420](https://github.com/vercel/next.js/pull/100420): docs: document useRouter push/replace void return and useTransition migration | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-10-22 21:47 UTC*
+*Last auto-updated via GitHub Actions: 2026-10-22 22:00 UTC*
 <!-- END_OSS_PRS -->
 
 ---
