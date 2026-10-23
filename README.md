@@ -5,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer+(React+%2F+Next.js+%2F+FastAPI);AI%2FML+Builder+%26+System+Architect;Tier-1+Open-Source+Contributor;Passionate+about+Scale%2C+Perf+%26+Accessibility)](https://github.com/Aryan9891)
 
 <p align="center">
+  <a href="https://aryan-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-aryan--portfolio.vercel.app-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
+  <a href="https://github.com/Aryan9891/aryan-portfolio"><img src="https://img.shields.io/badge/Portfolio_Repo-Aryan9891%2Faryan--portfolio-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio Repo" /></a>
   <a href="mailto:aryansachinixd@gmail.com"><img src="https://img.shields.io/badge/Email-aryansachinixd%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Aryan9891"><img src="https://img.shields.io/badge/GitHub-Aryan9891-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/aryan-sachin-7b2688340/"><img src="https://img.shields.io/badge/LinkedIn-Aryan_Sachin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -23,12 +25,14 @@
 ╰─$ aryan-cli --profile --inspect
 
   👤 Full Name         : Aryan Sachin
+  🌐 Live Portfolio    : https://aryan-portfolio.vercel.app
   💼 Primary Focus     : Full-Stack Software Engineering & AI/ML Systems
   🚀 Tech Stack        : TypeScript • React • Next.js • FastAPI • Python • Node.js
   🗄️ Database & Infra  : PostgreSQL • Redis • Docker • Supabase • GitHub Actions
   🌐 Open Source Scale : 12 Merged Pull Requests across 600k+ stars repositories
+  🏆 Honors & Awards   : 1st Place Overall Champion @ HackQuest 2.0 (ArogyaGrid)
   🎯 Core Focus Areas  : Next.js Architecture • Accessibility (WCAG 2.4.7) • Typo-Tolerant Search
-  📍 Availability      : Open to high-impact software engineering roles & challenges
+  📍 Availability      : Open to Full-Stack / Backend / AI Internships & GSoC 2027
 
 ╭─ aryan@cloud-node ~/workspace ‹main› 
 ╰─$ aryan-cli --run-health-checks
