@@ -77,7 +77,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [google/googletest](https://github.com/google/googletest) | 39.7k ★ | [#5140](https://github.com/google/googletest/pull/5140): docs: clarify gtest and gtest_main linking requirements | C++ | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [google/googletest](https://github.com/google/googletest) | 39.7k ★ | [#5136](https://github.com/google/googletest/pull/5136): docs: document GTEST_FLAG_GET and GTEST_FLAG_SET macros | C++ | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36.5k ★ | [#19080](https://github.com/langfuse/langfuse/pull/19080): fix(web): ignore empty threads when computing session timeline nesting level (#19062) | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [microsoft/vscode](https://github.com/microsoft/vscode) | 194.3k ★ | [#343210](https://github.com/microsoft/vscode/pull/343210): docs(design): add consistency-by-default guidance for UI pattern decisions | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
+| [microsoft/vscode](https://github.com/microsoft/vscode) | 194.4k ★ | [#343210](https://github.com/microsoft/vscode/pull/343210): docs(design): add consistency-by-default guidance for UI pattern decisions | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 46.3k ★ | [#42987](https://github.com/RocketChat/Rocket.Chat/pull/42987): fix(fuselage): do not render GridItem for null or boolean children in CardGrid | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 126.6k ★ | [#12348](https://github.com/shadcn-ui/ui/pull/12348): fix(styles): add menubar trigger focus styles across v4 styles (#12343) | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [tem-ctrl/open-source-guru](https://github.com/tem-ctrl/open-source-guru) | 2 ★ | [#48](https://github.com/tem-ctrl/open-source-guru/pull/48): feat(worker): remove closed issues and events during syncs (#35) | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
@@ -95,7 +95,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.0k ★ | [#43113](https://github.com/twbs/bootstrap/pull/43113): fix(tooltip): preserve raw string title and content data attributes (#43090) | MDX | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [vercel/next.js](https://github.com/vercel/next.js) | 143.3k ★ | [#100420](https://github.com/vercel/next.js/pull/100420): docs: document useRouter push/replace void return and useTransition migration | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-10-26 17:42 UTC*
+*Last auto-updated via GitHub Actions: 2026-10-27 02:32 UTC*
 <!-- END_OSS_PRS -->
 
 ---
