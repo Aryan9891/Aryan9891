@@ -53,26 +53,39 @@ query {
 `;
 
 console.log('Querying GitHub GraphQL API for open-source PRs authored by Aryan9891...');
-const response = await fetch('https://api.github.com/graphql', {
-  method: 'POST',
-  headers: {
-    'Authorization': `Bearer ${token}`,
-    'Content-Type': 'application/json',
-    'User-Agent': 'Aryan9891-OSS-PR-Sync'
-  },
-  body: JSON.stringify({ query })
-});
+let result = null;
+for (let attempt = 1; attempt <= 4; attempt++) {
+  try {
+    const response = await fetch('https://api.github.com/graphql', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${token}`,
+        'Content-Type': 'application/json',
+        'User-Agent': 'Aryan9891-OSS-PR-Sync'
+      },
+      body: JSON.stringify({ query })
+    });
 
-if (!response.ok) {
-  const errorText = await response.text();
-  console.error(`GitHub API responded with status ${response.status}: ${errorText}`);
-  process.exit(1);
-}
+    if (!response.ok) {
+      const errorText = await response.text();
+      console.error(`GitHub API responded with status ${response.status}: ${errorText}`);
+      process.exit(1);
+    }
 
-const result = await response.json();
-if (result.errors && result.errors.length > 0) {
-  console.error('GraphQL Query Errors:', JSON.stringify(result.errors, null, 2));
-  process.exit(1);
+    result = await response.json();
+    if (result.errors && result.errors.length > 0) {
+      console.error('GraphQL Query Errors:', JSON.stringify(result.errors, null, 2));
+      process.exit(1);
+    }
+    break;
+  } catch (err) {
+    if (attempt === 4) {
+      console.error('All 4 fetch attempts failed:', err.message);
+      process.exit(1);
+    }
+    console.log(`Fetch attempt ${attempt} failed (${err.message}). Retrying in 1.5s...`);
+    await new Promise(r => setTimeout(r, 1500));
+  }
 }
 
 const rawNodes = result?.data?.search?.nodes || [];
