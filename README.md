@@ -26,16 +26,16 @@
   💼 Primary Focus     : Full-Stack Software Engineering & AI/ML Systems
   🚀 Tech Stack        : TypeScript • React • Next.js • FastAPI • Python • Node.js
   🗄️ Database & Infra  : PostgreSQL • Redis • Docker • Supabase • GitHub Actions
-  🌐 Open Source Scale : 12 Merged Pull Requests across 600k+ stars repositories
+  🌐 Open Source Scale : Merged Pull Requests across 600k+ stars ecosystems (freeCodeCamp, Next.js)
   🏆 Honors & Awards   : 1st Place Overall Champion @ HackQuest 2.0 (ArogyaGrid)
-  🎯 Core Focus Areas  : Next.js Architecture • Accessibility (WCAG 2.4.7) • Typo-Tolerant Search
+  🎯 Core Focus Areas  : Next.js Architecture • Accessibility (WCAG 2.4.7) • Full-Stack Systems
   📍 Availability      : Open to Full-Stack / Backend / AI Internships & GSoC 2027
 
 ╭─ aryan@cloud-node ~/workspace ‹main› 
 ╰─$ aryan-cli --run-health-checks
   ✔ Next.js App Router -> useRouter void return & useTransition migration merged upstream (#100420)
+  ✔ freeCodeCamp Core  -> Interactive curriculum validation & Python certification logic merged (#71414, #71072)
   ✔ Monorepo Core      -> Strict TypeScript & AST invariants passing with 0 errors
-  ✔ Search Engine      -> Jaro-Winkler string similarity metric benchmarked & merged (#620)
   ✔ CI/CD Integrity    -> All GitHub Actions workflows verified green
 ```
 
@@ -65,37 +65,11 @@ A proven track record of solving real-world issues across industry-standard repo
 <!-- START_OSS_PRS -->
 | Repository | Stars | Pull Request | Language | Status |
 |:---|:---:|:---|:---:|:---:|
-| [alisolanki/OpenSource-Github-Wall](https://github.com/alisolanki/OpenSource-Github-Wall) | 94 ★ | [#220](https://github.com/alisolanki/OpenSource-Github-Wall/pull/220): docs(contributor): add Aryan9891 | Markdown | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [apache/airflow](https://github.com/apache/airflow) | 47.3k ★ | [#75235](https://github.com/apache/airflow/pull/75235): Document Daylight Saving Time schedule behavior (#38098) | Python | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [avelino/awesome-go](https://github.com/avelino/awesome-go) | 191.1k ★ | [#6797](https://github.com/avelino/awesome-go/pull/6797): fix(cli): move kong to Standard CLI category (#6592) | Go | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 400.5k ★ | [#13546](https://github.com/EbookFoundation/free-programming-books/pull/13546): feat(courses): add Formacao Java Completa to pt_BR courses (#13367) | Python | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.2k ★ | [#71414](https://github.com/freeCodeCamp/freeCodeCamp/pull/71414): fix(curriculum): reject non-positive amounts in encapsulation lecture validation | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.2k ★ | [#71072](https://github.com/freeCodeCamp/freeCodeCamp/pull/71072): fix(curriculum): clarify instructions in PIN Extractor Step 3 | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.2k ★ | [#71460](https://github.com/freeCodeCamp/freeCodeCamp/pull/71460): fix(curriculum): allow memoized recursion in Nth Fibonacci Number Calculator lab | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | 105.7k ★ | [#1435](https://github.com/goldbergyoni/nodebestpractices/pull/1435): fix(security): update eslint security links and note tslint deprecation (#1423) | Dockerfile | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [google/googletest](https://github.com/google/googletest) | 39.7k ★ | [#5140](https://github.com/google/googletest/pull/5140): docs: clarify gtest and gtest_main linking requirements | C++ | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [google/googletest](https://github.com/google/googletest) | 39.7k ★ | [#5136](https://github.com/google/googletest/pull/5136): docs: document GTEST_FLAG_GET and GTEST_FLAG_SET macros | C++ | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36.7k ★ | [#19080](https://github.com/langfuse/langfuse/pull/19080): fix(web): ignore empty threads when computing session timeline nesting level (#19062) | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [microsoft/vscode](https://github.com/microsoft/vscode) | 194.4k ★ | [#343210](https://github.com/microsoft/vscode/pull/343210): docs(design): add consistency-by-default guidance for UI pattern decisions | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 46.4k ★ | [#42987](https://github.com/RocketChat/Rocket.Chat/pull/42987): fix(fuselage): do not render GridItem for null or boolean children in CardGrid | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 126.9k ★ | [#12348](https://github.com/shadcn-ui/ui/pull/12348): fix(styles): add menubar trigger focus styles across v4 styles (#12343) | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [tem-ctrl/open-source-guru](https://github.com/tem-ctrl/open-source-guru) | 2 ★ | [#48](https://github.com/tem-ctrl/open-source-guru/pull/48): feat(worker): remove closed issues and events during syncs (#35) | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [tem-ctrl/open-source-guru](https://github.com/tem-ctrl/open-source-guru) | 2 ★ | [#47](https://github.com/tem-ctrl/open-source-guru/pull/47): feat(api): add color and size params to README badge url (#14) | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [tem-ctrl/open-source-guru](https://github.com/tem-ctrl/open-source-guru) | 2 ★ | [#46](https://github.com/tem-ctrl/open-source-guru/pull/46): feat(emails): send confirmation email on account deletion (#15) | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [tem-ctrl/open-source-guru](https://github.com/tem-ctrl/open-source-guru) | 2 ★ | [#45](https://github.com/tem-ctrl/open-source-guru/pull/45): fix(web): open github repo in a new tab (#37) | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [tem-ctrl/open-source-guru](https://github.com/tem-ctrl/open-source-guru) | 2 ★ | [#44](https://github.com/tem-ctrl/open-source-guru/pull/44): fix(web): open feed issues in a new tab | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 35 ★ | [#686](https://github.com/TheVicky1/Pact_OS/pull/686): feat(finance): add Dutch auction escalating penalty price decaying multiplier (#685) | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 35 ★ | [#628](https://github.com/TheVicky1/Pact_OS/pull/628): feat(security): add base58 unambiguous verification token encoder and decoder (#606) | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 35 ★ | [#627](https://github.com/TheVicky1/Pact_OS/pull/627): feat(health): add ergonomic 20-20-20 screen rest and posture micro-break scheduler (#615) | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 35 ★ | [#626](https://github.com/TheVicky1/Pact_OS/pull/626): feat(health): add caffeine metabolic half-life and bedtime sleep cutoff calculator (#616) | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 35 ★ | [#625](https://github.com/TheVicky1/Pact_OS/pull/625): feat(discipline): add parkinsons law task time-box compression factor calculator (#618) | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 35 ★ | [#620](https://github.com/TheVicky1/Pact_OS/pull/620): feat(search): add Jaro-Winkler typo-tolerant string similarity metric (#617) | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 35 ★ | [#624](https://github.com/TheVicky1/Pact_OS/pull/624): feat(data): add fixed-precision currency & percentage decimal arithmetic helper (#619) | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.0k ★ | [#43206](https://github.com/twbs/bootstrap/pull/43206): docs: improve border radius size examples | MDX | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
-| [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.0k ★ | [#43113](https://github.com/twbs/bootstrap/pull/43113): fix(tooltip): preserve raw string title and content data attributes (#43090) | MDX | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [vercel/next.js](https://github.com/vercel/next.js) | 143.2k ★ | [#100420](https://github.com/vercel/next.js/pull/100420): docs: document useRouter push/replace void return and useTransition migration | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-10-30 08:05 UTC*
+*Last auto-updated via GitHub Actions: 2026-10-30 08:08 UTC*
 <!-- END_OSS_PRS -->
 
 ---
@@ -112,35 +86,13 @@ A proven track record of solving real-world issues across industry-standard repo
 
 </details>
 
-<details>
-<summary><b>🎓 Case Study: freeCodeCamp Interactive Curriculum Logic (<a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/71072">#71072 — Merged</a>)</b></summary>
+<details open>
+<summary><b>🎓 Case Study: freeCodeCamp Interactive Curriculum & Certification Validation (<a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/71414">#71414</a> & <a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/71072">#71072</a> — Merged</a>)</b></summary>
 <br>
 
-- **The Problem**: Ambiguous user-facing instructions in Step 3 of the PIN Extractor certification curriculum created cognitive overhead for thousands of learners attempting regular expression capture groups.
-- **The Solution**: Clarified the step instructions and expected regex output invariants to remove ambiguity while maintaining strict automated curriculum test suite compatibility.
-- **Verification**: Executed localized curriculum regression test suites across freeCodeCamp's monorepo before merging upstream (457k+ stars).
-
-</details>
-
-<details>
-<summary><b>🧬 Case Study: Pact_OS Typo-Tolerant Jaro-Winkler Search Engine (<a href="https://github.com/TheVicky1/Pact_OS/pull/620">#620 — Merged</a>)</b></summary>
-<br>
-
-- **The Problem**: Global search in Pact_OS was limited to strict substring matches, failing when users had minor typos or transpositions (e.g. searching "dokcer" instead of "docker").
-- **The Solution**: Built a zero-dependency, high-performance Jaro-Winkler distance metric in TypeScript with Winkler prefix scaling ($p = 0.1$, max prefix length = 4).
-- **Impact**: Integrated seamlessly into the project's search index pipeline, instantly improving search recall by 40% with zero bundle bloat.
-
-</details>
-
-<details>
-<summary><b>🚀 Case Study: Open Source Guru Full-Stack Infrastructure Suite (<a href="https://github.com/tem-ctrl/open-source-guru/pulls?q=is%3Apr+author%3AAryan9891">#44–#48 — Merged</a>)</b></summary>
-<br>
-
-- **Scope**: Authored 5 interconnected Pull Requests across Next.js 16 frontend, Fastify REST APIs, and background Redis worker syncs:
-  - **Worker Queue Maintenance (#48)**: Automatically pruned closed GitHub issues & stale triage events during background sync cycles.
-  - **Dynamic SVG Badge API (#47)**: Implemented query params for customizable badge sizes, colors, and cache headers.
-  - **Tab Navigation UX (#44, #45)**: Ensured non-disruptive external navigation for feeds and repositories.
-  - **Transactional Account Deletion (#46)**: Triggered transactional confirmation emails during user lifecycle teardowns.
+- **Interactive Regex Verification (#71072)**: Clarified step instructions and expected regex output invariants in Step 3 of the PIN Extractor curriculum to remove cognitive overhead while maintaining strict automated curriculum test suite compatibility (458k+ stars).
+- **Encapsulation Validation Logic (#71414)**: Resolved edge-case validation bug in Python OOP certification curriculum where non-positive validation incorrectly accepted zero; aligned runtime validation with strict `ValueError` requirements.
+- **Verification**: Executed localized curriculum regression test suites and verified Prettier code style across freeCodeCamp's monorepo before merging upstream.
 
 </details>
 
@@ -156,11 +108,8 @@ A proven track record of solving real-world issues across industry-standard repo
     <a href="https://github.com/vercel/next.js/pull/100420">
       <img src="https://img.shields.io/badge/Next.js-Core_Contributor_(Merged)-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Contributor" />
     </a>
-    <a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/71072">
-      <img src="https://img.shields.io/badge/freeCodeCamp-Merged_PR-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Merged" />
-    </a>
-    <a href="https://github.com/TheVicky1/Pact_OS/pull/620">
-      <img src="https://img.shields.io/badge/Algorithms-Jaro--Winkler_Search-10B981?style=for-the-badge&logo=speedtest&logoColor=white" alt="Jaro-Winkler Metric" />
+    <a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/71414">
+      <img src="https://img.shields.io/badge/freeCodeCamp-Core_Contributor_(Merged)-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Merged" />
     </a>
   </p>
 </div>
