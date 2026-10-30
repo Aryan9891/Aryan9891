@@ -71,6 +71,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 400.5k ★ | [#13546](https://github.com/EbookFoundation/free-programming-books/pull/13546): feat(courses): add Formacao Java Completa to pt_BR courses (#13367) | Python | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.2k ★ | [#71414](https://github.com/freeCodeCamp/freeCodeCamp/pull/71414): fix(curriculum): reject non-positive amounts in encapsulation lecture validation | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.2k ★ | [#71072](https://github.com/freeCodeCamp/freeCodeCamp/pull/71072): fix(curriculum): clarify instructions in PIN Extractor Step 3 | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.2k ★ | [#71460](https://github.com/freeCodeCamp/freeCodeCamp/pull/71460): fix(curriculum): allow memoized recursion in Nth Fibonacci Number Calculator lab | TypeScript | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | 105.7k ★ | [#1435](https://github.com/goldbergyoni/nodebestpractices/pull/1435): fix(security): update eslint security links and note tslint deprecation (#1423) | Dockerfile | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [google/googletest](https://github.com/google/googletest) | 39.7k ★ | [#5140](https://github.com/google/googletest/pull/5140): docs: clarify gtest and gtest_main linking requirements | C++ | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [google/googletest](https://github.com/google/googletest) | 39.7k ★ | [#5136](https://github.com/google/googletest/pull/5136): docs: document GTEST_FLAG_GET and GTEST_FLAG_SET macros | C++ | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
@@ -94,7 +95,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.0k ★ | [#43113](https://github.com/twbs/bootstrap/pull/43113): fix(tooltip): preserve raw string title and content data attributes (#43090) | MDX | ![Open](https://img.shields.io/badge/Open-238636?style=flat-square&logo=githubpullrequest&logoColor=white) |
 | [vercel/next.js](https://github.com/vercel/next.js) | 143.2k ★ | [#100420](https://github.com/vercel/next.js/pull/100420): docs: document useRouter push/replace void return and useTransition migration | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-10-30 03:04 UTC*
+*Last auto-updated via GitHub Actions: 2026-10-30 08:05 UTC*
 <!-- END_OSS_PRS -->
 
 ---
