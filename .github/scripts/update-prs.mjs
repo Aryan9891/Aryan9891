@@ -94,13 +94,15 @@ console.log(`Found ${rawNodes.length} public Pull Requests.`);
 
 // 3. Keep ONLY MERGED PRs in repositories with strictly > 10,000 stars
 const prs = rawNodes.filter(pr => {
+  // Discard all unmerged or open PRs
   if (!pr || pr.state !== 'MERGED') return false;
+  // Discard any repository with 10,000 or fewer stars
   const stars = pr.repository?.stargazerCount ?? 0;
   return stars > 10000;
 });
-console.log(`Retained ${prs.length} MERGED Pull Requests in repositories with >10,000 stars.`);
+console.log(`Retained ${prs.length} MERGED Pull Requests in repositories with strictly >10,000 stars.`);
 
-// 4. Sort: Repositories by star count descending, then by PR number descending
+// 4. Sorting: Group and sort qualifying repositories by star count descending, then by PR number descending
 prs.sort((a, b) => {
   const starsA = a.repository?.stargazerCount ?? 0;
   const starsB = b.repository?.stargazerCount ?? 0;
@@ -183,8 +185,9 @@ function stripTimestamp(text) {
 
 const cleanExisting = stripTimestamp(existingBetween);
 const cleanNew = stripTimestamp(tableMarkdown);
+const forceUpdate = process.argv.includes('--force') || process.env.FORCE_UPDATE === '1';
 
-if (cleanExisting === cleanNew) {
+if (cleanExisting === cleanNew && !forceUpdate) {
   console.log('No PR status, star, or table content changes detected. README.md is already up to date.');
   process.exit(0);
 }
