@@ -58,6 +58,26 @@
 
 ---
 
+### 🚀 Featured Production Projects & Developer Tools
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/Aryan9891/prompt-studio">⚡ PromptStudio</a> &nbsp; <img src="https://img.shields.io/badge/MIT-Licensed-emerald?style=flat-square" alt="MIT" /> <img src="https://img.shields.io/badge/Architecture-100%25_Local--First-cyan?style=flat-square" alt="Local First" /></h3>
+      <p><b>Production-grade AI prompt engineering workbench & live markdown studio with real-time telemetry, command palette, and multi-format export.</b></p>
+      <p>Features live token telemetry heuristics (calibrated against <code>cl100k_base</code> and Gemini tokenizer distributions), instant command palette (<code>Ctrl+K</code> / <code>/</code>), dynamic parameterized variable slots (<code>{{variable}}</code>), and 1-click export to JSON, Markdown, and CSV. 100% offline client-side execution with zero external data transmission.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-14.2-black?style=flat-square&logo=next.js" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-5.6-blue?style=flat-square&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/E2E_QA-100%25_Pass-brightgreen?style=flat-square" alt="QA" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🌐 Featured Open-Source Contributions
 
 A proven track record of solving real-world issues across industry-standard repositories:
@@ -73,7 +93,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 191.3k ★ | [#6797](https://github.com/avelino/awesome-go/pull/6797): fix(cli): move kong to Standard CLI category (#6592) | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.0k ★ | [#43206](https://github.com/twbs/bootstrap/pull/43206): docs: improve border radius size examples | MDX | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.0k ★ | [#43113](https://github.com/twbs/bootstrap/pull/43113): fix(tooltip): preserve raw string title and content data attributes (#43090) | MDX | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
-| [vercel/next.js](https://github.com/vercel/next.js) | 143.2k ★ | [#100420](https://github.com/vercel/next.js/pull/100420): docs: document useRouter push/replace void return and useTransition migration | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
+| [vercel/next.js](https://github.com/vercel/next.js) | 143.3k ★ | [#100420](https://github.com/vercel/next.js/pull/100420): docs: document useRouter push/replace void return and useTransition migration | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 127.0k ★ | [#12348](https://github.com/shadcn-ui/ui/pull/12348): fix(styles): add menubar trigger focus styles across v4 styles (#12343) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | 105.7k ★ | [#1435](https://github.com/goldbergyoni/nodebestpractices/pull/1435): fix(security): update eslint security links and note tslint deprecation (#1423) | Dockerfile | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [apache/airflow](https://github.com/apache/airflow) | 47.3k ★ | [#75235](https://github.com/apache/airflow/pull/75235): Document Daylight Saving Time schedule behavior (#38098) | Python | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
@@ -87,7 +107,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [google/benchmark](https://github.com/google/benchmark) | 10.5k ★ | [#2358](https://github.com/google/benchmark/pull/2358): fix(json_reporter): escape C0 control characters per RFC 8259 | C++ | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3524](https://github.com/google/highway/pull/3524): docs(quick_reference): add concrete example and lane table for Dup128VecFromValues | C++ | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-10-31 09:26 UTC*
+*Last auto-updated via GitHub Actions: 2026-10-31 11:06 UTC*
 <!-- END_OSS_PRS -->
 
 ---
