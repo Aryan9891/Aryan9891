@@ -26,10 +26,10 @@ if (!token) {
   process.exit(1);
 }
 
-// 2. Query GitHub GraphQL API for MERGED pull requests only
+// 2. Query GitHub GraphQL API for all public pull requests authored by Aryan9891
 const query = `
 query {
-  search(query: "is:pr is:merged author:Aryan9891 is:public -user:Aryan9891", type: ISSUE, first: 100) {
+  search(query: "is:pr author:Aryan9891 is:public -user:Aryan9891", type: ISSUE, first: 100) {
     issueCount
     nodes {
       ... on PullRequest {
@@ -53,7 +53,7 @@ query {
 }
 `;
 
-console.log('Querying GitHub GraphQL API for merged open-source PRs authored by Aryan9891...');
+console.log('Querying GitHub GraphQL API for open and merged PRs authored by Aryan9891 in >1k star repos...');
 let result = null;
 for (let attempt = 1; attempt <= 4; attempt++) {
   try {
@@ -90,19 +90,20 @@ for (let attempt = 1; attempt <= 4; attempt++) {
 }
 
 const rawNodes = result?.data?.search?.nodes || [];
-console.log(`Found ${rawNodes.length} public Pull Requests.`);
+console.log(`Found ${rawNodes.length} total public Pull Requests.`);
 
-// 3. Keep ONLY MERGED PRs in repositories with strictly > 10,000 stars
+// 3. Keep ALL MERGED and OPEN PRs in repositories with strictly > 1,000 stars (excluding closed-unmerged)
 const prs = rawNodes.filter(pr => {
-  // Discard all unmerged or open PRs
-  if (!pr || pr.state !== 'MERGED') return false;
-  // Discard any repository with 10,000 or fewer stars
+  if (!pr) return false;
+  // Discard closed unmerged PRs
+  if (pr.state !== 'MERGED' && pr.state !== 'OPEN') return false;
+  // Discard any repository with 1,000 or fewer stars
   const stars = pr.repository?.stargazerCount ?? 0;
-  return stars > 10000;
+  return stars > 1000;
 });
-console.log(`Retained ${prs.length} MERGED Pull Requests in repositories with strictly >10,000 stars.`);
+console.log(`Retained ${prs.length} Pull Requests (Merged & Open) in repositories with strictly >1,000 stars.`);
 
-// 4. Sorting: Group and sort qualifying repositories by star count descending, then by PR number descending
+// 4. Sorting: Group and sort by repository star count descending, then MERGED before OPEN, then PR number descending
 prs.sort((a, b) => {
   const starsA = a.repository?.stargazerCount ?? 0;
   const starsB = b.repository?.stargazerCount ?? 0;
@@ -113,10 +114,16 @@ prs.sort((a, b) => {
   const repoCompare = repoA.localeCompare(repoB);
   if (repoCompare !== 0) return repoCompare;
 
+  // Prioritize MERGED before OPEN within the same repo
+  if (a.state !== b.state) {
+    if (a.state === 'MERGED') return -1;
+    if (b.state === 'MERGED') return 1;
+  }
+
   return b.number - a.number;
 });
 
-// 5. Star formatting utility (e.g. 458.2k ★, 143.2k ★)
+// 5. Star formatting utility (e.g. 458.3k ★, 143.2k ★)
 function formatStars(count) {
   if (typeof count !== 'number' || isNaN(count)) return '0 ★';
   if (count >= 1_000_000) {
@@ -132,6 +139,9 @@ function formatStars(count) {
 function getStatusBadge(state) {
   if (state === 'MERGED') {
     return '![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github)';
+  }
+  if (state === 'OPEN') {
+    return '![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github)';
   }
   return `![${state}](https://img.shields.io/badge/${state}-gray?style=flat-square)`;
 }
@@ -201,4 +211,4 @@ const updatedReadme =
   readmeContent.substring(endIndex);
 
 writeFileSync(README_PATH, updatedReadme, 'utf-8');
-console.log('Successfully updated README.md with live merged >10k star PRs.');
+console.log('Successfully updated README.md with live merged and open >1k star PRs.');
