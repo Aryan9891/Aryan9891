@@ -100,6 +100,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [apache/airflow](https://github.com/apache/airflow) | 47.3k ★ | [#75235](https://github.com/apache/airflow/pull/75235): Document Daylight Saving Time schedule behavior (#38098) | Python | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 46.4k ★ | [#42987](https://github.com/RocketChat/Rocket.Chat/pull/42987): fix(fuselage): do not render GridItem for null or boolean children in CardGrid | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/zx](https://github.com/google/zx) | 45.8k ★ | [#1536](https://github.com/google/zx/pull/1536): docs(api): explain syncProcessCwd async contexts and within behavior | JavaScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
+| [google/googletest](https://github.com/google/googletest) | 39.7k ★ | [#5146](https://github.com/google/googletest/pull/5146): fix(gtest): use unique identifier in SCOPED_TRACE to avoid redefinition and shadow warnings | C++ | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/googletest](https://github.com/google/googletest) | 39.7k ★ | [#5142](https://github.com/google/googletest/pull/5142): docs: clarify reverse expectation definition order in gMock for dummies | C++ | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/googletest](https://github.com/google/googletest) | 39.7k ★ | [#5140](https://github.com/google/googletest/pull/5140): docs: clarify gtest and gtest_main linking requirements | C++ | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/googletest](https://github.com/google/googletest) | 39.7k ★ | [#5136](https://github.com/google/googletest/pull/5136): docs: document GTEST_FLAG_GET and GTEST_FLAG_SET macros | C++ | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
@@ -108,7 +109,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [google/benchmark](https://github.com/google/benchmark) | 10.5k ★ | [#2358](https://github.com/google/benchmark/pull/2358): fix(json_reporter): escape C0 control characters per RFC 8259 | C++ | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3524](https://github.com/google/highway/pull/3524): docs(quick_reference): add concrete example and lane table for Dup128VecFromValues | C++ | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-11-02 02:52 UTC*
+*Last auto-updated via GitHub Actions: 2026-11-02 07:31 UTC*
 <!-- END_OSS_PRS -->
 
 ---
