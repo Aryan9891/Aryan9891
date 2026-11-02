@@ -172,7 +172,7 @@ A proven track record of solving real-world issues across industry-standard repo
 <div align="center">
   <p align="center">
     <a href="https://github.com/Aryan9891">
-      <img src="https://githubreadme-stats.vercel.app/api?username=Aryan9891&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" alt="Aryan's GitHub Stats" />
+      <img src="https://githubreadme-stats.vercel.app/api?username=Aryan9891&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" height="165" alt="Aryan's GitHub Stats" />
     </a>
     <a href="https://github.com/Aryan9891">
       <img src="https://streak-stats.demolab.com/?user=Aryan9891&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Streak" />
