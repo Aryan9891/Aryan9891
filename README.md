@@ -85,9 +85,9 @@ A proven track record of solving real-world issues across industry-standard repo
 <!-- START_OSS_PRS -->
 | Repository | Stars | Pull Request | Language | Status |
 |:---|:---:|:---|:---:|:---:|
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.5k ★ | [#71460](https://github.com/freeCodeCamp/freeCodeCamp/pull/71460): fix(curriculum): allow memoized recursion in Nth Fibonacci Number Calculator lab | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.5k ★ | [#71414](https://github.com/freeCodeCamp/freeCodeCamp/pull/71414): fix(curriculum): reject non-positive amounts in encapsulation lecture validation | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.5k ★ | [#71072](https://github.com/freeCodeCamp/freeCodeCamp/pull/71072): fix(curriculum): clarify instructions in PIN Extractor Step 3 | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.6k ★ | [#71460](https://github.com/freeCodeCamp/freeCodeCamp/pull/71460): fix(curriculum): allow memoized recursion in Nth Fibonacci Number Calculator lab | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.6k ★ | [#71414](https://github.com/freeCodeCamp/freeCodeCamp/pull/71414): fix(curriculum): reject non-positive amounts in encapsulation lecture validation | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.6k ★ | [#71072](https://github.com/freeCodeCamp/freeCodeCamp/pull/71072): fix(curriculum): clarify instructions in PIN Extractor Step 3 | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 400.9k ★ | [#13546](https://github.com/EbookFoundation/free-programming-books/pull/13546): feat(courses): add Formacao Java Completa to pt_BR courses (#13367) | Python | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 194.6k ★ | [#343210](https://github.com/microsoft/vscode/pull/343210): docs(design): add consistency-by-default guidance for UI pattern decisions | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 192.1k ★ | [#6797](https://github.com/avelino/awesome-go/pull/6797): fix(cli): move kong to Standard CLI category (#6592) | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
@@ -112,7 +112,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [google/benchmark](https://github.com/google/benchmark) | 10.5k ★ | [#2358](https://github.com/google/benchmark/pull/2358): fix(json_reporter): escape C0 control characters per RFC 8259 | C++ | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3524](https://github.com/google/highway/pull/3524): docs(quick_reference): add concrete example and lane table for Dup128VecFromValues | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-11-04 21:40 UTC*
+*Last auto-updated via GitHub Actions: 2026-11-05 03:50 UTC*
 <!-- END_OSS_PRS -->
 
 ---
