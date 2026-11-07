@@ -101,6 +101,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 127.6k ★ | [#12559](https://github.com/shadcn-ui/ui/pull/12559): fix(react): ignore scroll keys in editable elements in MessageScroller | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 127.6k ★ | [#12348](https://github.com/shadcn-ui/ui/pull/12348): fix(styles): add menubar trigger focus styles across v4 styles (#12343) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | 105.7k ★ | [#1435](https://github.com/goldbergyoni/nodebestpractices/pull/1435): fix(security): update eslint security links and note tslint deprecation (#1423) | Dockerfile | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
+| [meta/docusaurus](https://github.com/meta/docusaurus) | 66.7k ★ | [#12928](https://github.com/meta/docusaurus/pull/12928): fix(mdx-loader): parse markdown.mdx1Compat comments to AST so explicit heading IDs are recognized | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [meta/docusaurus](https://github.com/meta/docusaurus) | 66.7k ★ | [#12923](https://github.com/meta/docusaurus/pull/12923): fix(theme-mermaid): serialize initialize and render calls to prevent empty SVGs (#12757) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [meta/docusaurus](https://github.com/meta/docusaurus) | 66.7k ★ | [#12874](https://github.com/meta/docusaurus/pull/12874): fix(utils): preserve trailing hash in markdown heading titles (#12644) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [apache/airflow](https://github.com/apache/airflow) | 47.4k ★ | [#75235](https://github.com/apache/airflow/pull/75235): Document Daylight Saving Time schedule behavior (#38098) | Python | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
@@ -115,7 +116,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [google/benchmark](https://github.com/google/benchmark) | 10.5k ★ | [#2358](https://github.com/google/benchmark/pull/2358): fix(json_reporter): escape C0 control characters per RFC 8259 | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3524](https://github.com/google/highway/pull/3524): docs(quick_reference): add concrete example and lane table for Dup128VecFromValues | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-11-07 17:16 UTC*
+*Last auto-updated via GitHub Actions: 2026-11-07 20:44 UTC*
 <!-- END_OSS_PRS -->
 
 ---
