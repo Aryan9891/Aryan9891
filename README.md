@@ -130,6 +130,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.9k ★ | [#71460](https://github.com/freeCodeCamp/freeCodeCamp/pull/71460): fix(curriculum): allow memoized recursion in Nth Fibonacci Number Calculator lab | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.9k ★ | [#71414](https://github.com/freeCodeCamp/freeCodeCamp/pull/71414): fix(curriculum): reject non-positive amounts in encapsulation lecture validation | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 458.9k ★ | [#71072](https://github.com/freeCodeCamp/freeCodeCamp/pull/71072): fix(curriculum): clarify instructions in PIN Extractor Step 3 | TypeScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 401.5k ★ | [#13605](https://github.com/EbookFoundation/free-programming-books/pull/13605): feat(es/python): add JJ_PYTHON_BOOK (#13410) | Python | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 401.5k ★ | [#13546](https://github.com/EbookFoundation/free-programming-books/pull/13546): feat(courses): add Formacao Java Completa to pt_BR courses (#13367) | Python | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 195.3k ★ | [#347273](https://github.com/microsoft/vscode/pull/347273): debt(chat): remove contrib/chat dependencies on contrib/sessions (#346756) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 195.3k ★ | [#346854](https://github.com/microsoft/vscode/pull/346854): fix(terminal): support multiple action view items for create terminal dropdown (#346848) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
@@ -164,7 +165,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [google/benchmark](https://github.com/google/benchmark) | 10.5k ★ | [#2358](https://github.com/google/benchmark/pull/2358): fix(json_reporter): escape C0 control characters per RFC 8259 | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3524](https://github.com/google/highway/pull/3524): docs(quick_reference): add concrete example and lane table for Dup128VecFromValues | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-11-10 21:50 UTC*
+*Last auto-updated via GitHub Actions: 2026-11-10 22:22 UTC*
 <!-- END_OSS_PRS -->
 
 ---
