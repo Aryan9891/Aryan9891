@@ -136,6 +136,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 195.3k ★ | [#346854](https://github.com/microsoft/vscode/pull/346854): fix(terminal): support multiple action view items for create terminal dropdown (#346848) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 195.3k ★ | [#346210](https://github.com/microsoft/vscode/pull/346210): fix(notebook): avoid exception in updateOutputHeight for removed outputs (#225569) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 195.3k ★ | [#343210](https://github.com/microsoft/vscode/pull/343210): docs(design): add consistency-by-default guidance for UI pattern decisions | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6893](https://github.com/avelino/awesome-go/pull/6893): feat(utilities): add cast to Utilities | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6892](https://github.com/avelino/awesome-go/pull/6892): feat(tui): add color to Advanced Console UIs | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6891](https://github.com/avelino/awesome-go/pull/6891): feat(tui): add glow to Advanced Console UIs | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6890](https://github.com/avelino/awesome-go/pull/6890): feat(testing): add goleak to Testing Frameworks | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
@@ -181,7 +182,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [google/benchmark](https://github.com/google/benchmark) | 10.5k ★ | [#2358](https://github.com/google/benchmark/pull/2358): fix(json_reporter): escape C0 control characters per RFC 8259 | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3524](https://github.com/google/highway/pull/3524): docs(quick_reference): add concrete example and lane table for Dup128VecFromValues | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-11-11 06:32 UTC*
+*Last auto-updated via GitHub Actions: 2026-11-11 07:01 UTC*
 <!-- END_OSS_PRS -->
 
 ---
