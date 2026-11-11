@@ -136,7 +136,8 @@ A proven track record of solving real-world issues across industry-standard repo
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 195.3k ★ | [#346854](https://github.com/microsoft/vscode/pull/346854): fix(terminal): support multiple action view items for create terminal dropdown (#346848) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 195.3k ★ | [#346210](https://github.com/microsoft/vscode/pull/346210): fix(notebook): avoid exception in updateOutputHeight for removed outputs (#225569) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 195.3k ★ | [#343210](https://github.com/microsoft/vscode/pull/343210): docs(design): add consistency-by-default guidance for UI pattern decisions | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
-| [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6878](https://github.com/avelino/awesome-go/pull/6878): feat(devops): add git-who to DevOps Tools (#5563) | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6879](https://github.com/avelino/awesome-go/pull/6879): feat(other): add d2 to Other Software (#5563) | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6878](https://github.com/avelino/awesome-go/pull/6878): feat(config): add go-env to Configuration (#5563) | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6877](https://github.com/avelino/awesome-go/pull/6877): feat(tui): add up to Advanced Console UIs (#5563) | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6876](https://github.com/avelino/awesome-go/pull/6876): feat(caches): add ccache to Caches (#5563) | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6875](https://github.com/avelino/awesome-go/pull/6875): feat(devops): add ghq to DevOps Tools (#5563) | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
@@ -168,7 +169,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [google/benchmark](https://github.com/google/benchmark) | 10.5k ★ | [#2358](https://github.com/google/benchmark/pull/2358): fix(json_reporter): escape C0 control characters per RFC 8259 | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3524](https://github.com/google/highway/pull/3524): docs(quick_reference): add concrete example and lane table for Dup128VecFromValues | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-11-10 23:54 UTC*
+*Last auto-updated via GitHub Actions: 2026-11-11 00:26 UTC*
 <!-- END_OSS_PRS -->
 
 ---
