@@ -136,6 +136,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 195.3k ★ | [#346854](https://github.com/microsoft/vscode/pull/346854): fix(terminal): support multiple action view items for create terminal dropdown (#346848) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 195.3k ★ | [#346210](https://github.com/microsoft/vscode/pull/346210): fix(notebook): avoid exception in updateOutputHeight for removed outputs (#225569) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 195.3k ★ | [#343210](https://github.com/microsoft/vscode/pull/343210): docs(design): add consistency-by-default guidance for UI pattern decisions | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6887](https://github.com/avelino/awesome-go/pull/6887): feat(devops): add trivy to DevOps Tools | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6886](https://github.com/avelino/awesome-go/pull/6886): feat(devops): add distributarepo to DevOps Tools (#5563) | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6885](https://github.com/avelino/awesome-go/pull/6885): feat(devops): add fission to DevOps Tools (#5563) | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 193.2k ★ | [#6883](https://github.com/avelino/awesome-go/pull/6883): feat(tui): add puffin to Advanced Console UIs (#5563) | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
@@ -175,7 +176,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [google/benchmark](https://github.com/google/benchmark) | 10.5k ★ | [#2358](https://github.com/google/benchmark/pull/2358): fix(json_reporter): escape C0 control characters per RFC 8259 | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3524](https://github.com/google/highway/pull/3524): docs(quick_reference): add concrete example and lane table for Dup128VecFromValues | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-11-11 03:31 UTC*
+*Last auto-updated via GitHub Actions: 2026-11-11 03:57 UTC*
 <!-- END_OSS_PRS -->
 
 ---
