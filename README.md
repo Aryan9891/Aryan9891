@@ -171,7 +171,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [meta/docusaurus](https://github.com/meta/docusaurus) | 66.8k ★ | [#12928](https://github.com/meta/docusaurus/pull/12928): fix(mdx-loader): parse markdown.mdx1Compat comments to AST so explicit heading IDs are recognized | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [meta/docusaurus](https://github.com/meta/docusaurus) | 66.8k ★ | [#12923](https://github.com/meta/docusaurus/pull/12923): fix(theme-mermaid): serialize initialize and render calls to prevent empty SVGs (#12757) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [meta/docusaurus](https://github.com/meta/docusaurus) | 66.8k ★ | [#12874](https://github.com/meta/docusaurus/pull/12874): fix(utils): preserve trailing hash in markdown heading titles (#12644) | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
-| [apache/airflow](https://github.com/apache/airflow) | 47.5k ★ | [#75235](https://github.com/apache/airflow/pull/75235): Document Daylight Saving Time schedule behavior (#38098) | Python | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
+| [apache/airflow](https://github.com/apache/airflow) | 47.6k ★ | [#75235](https://github.com/apache/airflow/pull/75235): Document Daylight Saving Time schedule behavior (#38098) | Python | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 46.5k ★ | [#42987](https://github.com/RocketChat/Rocket.Chat/pull/42987): fix(fuselage): do not render GridItem for null or boolean children in CardGrid | TypeScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/zx](https://github.com/google/zx) | 45.9k ★ | [#1555](https://github.com/google/zx/pull/1555): fix(core): preserve multi-byte UTF-8 split across pipe chunks (#1554) | JavaScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/zx](https://github.com/google/zx) | 45.9k ★ | [#1552](https://github.com/google/zx/pull/1552): fix(core): prepend call operator for quoted commands in PowerShell (#1551) | JavaScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
@@ -187,7 +187,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6.0k ★ | [#16729](https://github.com/stdlib-js/stdlib/pull/16729): chore: fix JavaScript lint errors (issue #16698) | JavaScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3524](https://github.com/google/highway/pull/3524): docs(quick_reference): add concrete example and lane table for Dup128VecFromValues | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-11-19 14:09 UTC*
+*Last auto-updated via GitHub Actions: 2026-11-19 14:45 UTC*
 <!-- END_OSS_PRS -->
 
 ---
