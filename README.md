@@ -184,11 +184,11 @@ A proven track record of solving real-world issues across industry-standard repo
 | [google/python-fire](https://github.com/google/python-fire) | 28.2k ★ | [#734](https://github.com/google/python-fire/pull/734): fix: preserve string-hinted argument values without numeric coercion (#733) | Python | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/python-fire](https://github.com/google/python-fire) | 28.2k ★ | [#729](https://github.com/google/python-fire/pull/729): fix(decorators): avoid mutating original function metadata on functools.wraps | Python | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/benchmark](https://github.com/google/benchmark) | 10.5k ★ | [#2358](https://github.com/google/benchmark/pull/2358): fix(json_reporter): escape C0 control characters per RFC 8259 | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6.0k ★ | [#16729](https://github.com/stdlib-js/stdlib/pull/16729): chore: fix JavaScript lint errors (issue #16698) | JavaScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
+| [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6.0k ★ | [#16729](https://github.com/stdlib-js/stdlib/pull/16729): chore: fix JavaScript lint errors (issue #16698) | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3524](https://github.com/google/highway/pull/3524): docs(quick_reference): add concrete example and lane table for Dup128VecFromValues | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3563](https://github.com/google/highway/pull/3563): fix(ops): gate generic Load/StoreInterleaved on non-scalar under HWY_IDE (#3559) | C++ | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-11-20 04:55 UTC*
+*Last auto-updated via GitHub Actions: 2026-11-20 14:26 UTC*
 <!-- END_OSS_PRS -->
 
 ---
