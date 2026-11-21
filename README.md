@@ -159,6 +159,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 195.1k ★ | [#6874](https://github.com/avelino/awesome-go/pull/6874): feat(devops): add git-xargs to DevOps Tools (#5563) | Go | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.1k ★ | [#43344](https://github.com/twbs/bootstrap/pull/43344): refactor(visually-hidden): replace deprecated clip with clip-path (#43333) | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.1k ★ | [#43113](https://github.com/twbs/bootstrap/pull/43113): fix(tooltip): preserve raw string title and content data attributes (#43090) | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
+| [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.1k ★ | [#43435](https://github.com/twbs/bootstrap/pull/43435): refactor(scss): move _datepicker.scss to forms subdirectory (#43429) | JavaScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.1k ★ | [#43403](https://github.com/twbs/bootstrap/pull/43403): feat(collapse): add .collapse-instant to opt out of transitions | JavaScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.1k ★ | [#43392](https://github.com/twbs/bootstrap/pull/43392): fix(combobox): make multi-select toggle text localizable via selectedText option (#43370) | JavaScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175.1k ★ | [#43298](https://github.com/twbs/bootstrap/pull/43298): hover-lift: keep element lifted when .show is active | JavaScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
@@ -188,7 +189,7 @@ A proven track record of solving real-world issues across industry-standard repo
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3524](https://github.com/google/highway/pull/3524): docs(quick_reference): add concrete example and lane table for Dup128VecFromValues | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3563](https://github.com/google/highway/pull/3563): fix(ops): gate generic Load/StoreInterleaved on non-scalar under HWY_IDE (#3559) | C++ | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-11-21 04:23 UTC*
+*Last auto-updated via GitHub Actions: 2026-11-21 08:53 UTC*
 <!-- END_OSS_PRS -->
 
 ---
