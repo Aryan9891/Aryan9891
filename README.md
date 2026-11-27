@@ -189,12 +189,13 @@ A proven track record of solving real-world issues across industry-standard repo
 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6.0k ★ | [#16810](https://github.com/stdlib-js/stdlib/pull/16810): docs: use dedicated zero-dimensional tensor constructor in `blas/base/ndarray/dger` | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6.0k ★ | [#16805](https://github.com/stdlib-js/stdlib/pull/16805): docs: use dedicated zero-dimensional tensor constructor in `blas/base/ndarray/csscal` | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6.0k ★ | [#16729](https://github.com/stdlib-js/stdlib/pull/16729): chore: fix JavaScript lint errors (issue #16698) | JavaScript | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
+| [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6.0k ★ | [#16909](https://github.com/stdlib-js/stdlib/pull/16909): docs: use dedicated zero-dimensional tensor constructor in `ndarray/base/atleast2d` | JavaScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6.0k ★ | [#16908](https://github.com/stdlib-js/stdlib/pull/16908): docs: use dedicated zero-dimensional tensor constructor in `ndarray/base/atleast1d` | JavaScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6.0k ★ | [#16792](https://github.com/stdlib-js/stdlib/pull/16792): docs: use dedicated zero-dimensional tensor constructor in `blas/base/ndarray/sscal` | JavaScript | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3524](https://github.com/google/highway/pull/3524): docs(quick_reference): add concrete example and lane table for Dup128VecFromValues | C++ | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | [google/highway](https://github.com/google/highway) | 6.0k ★ | [#3563](https://github.com/google/highway/pull/3563): fix(ops): gate generic Load/StoreInterleaved on non-scalar under HWY_IDE (#3559) | C++ | ![Open](https://img.shields.io/badge/Open%20%2F%20In%20Review-238636?style=flat-square&logo=github) |
 
-*Last auto-updated via GitHub Actions: 2026-11-27 21:39 UTC*
+*Last auto-updated via GitHub Actions: 2026-11-27 22:03 UTC*
 <!-- END_OSS_PRS -->
 
 ---
